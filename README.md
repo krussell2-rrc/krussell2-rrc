@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## GitHub Stats
-![Streak](https://streak-stats.demolab.com?user=krussell2-rrc&theme=github-dark-blue&hide_border=true&v=4)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=krussell2-rrc&theme=dark&hide_border=true&v=5" alt="GitHub Streak"/>
+</p>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=krussell2-rrc&show_icons=true&count_private=true&theme=github_dark&hide_border=true&v=2)
 
