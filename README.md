@@ -2,3 +2,5 @@
 <!-- Streak card (alt host + cache-buster) -->
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=krussell2-rrc&theme=dark&hide_border=true&v=14)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krussell2-rrc&layout=compact&theme=github_dark&hide_border=true&v=3)
