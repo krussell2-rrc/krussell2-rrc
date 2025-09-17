@@ -15,11 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## GitHub Stats
+
+<!-- Streak card (alt host + cache-buster) -->
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=krussell2-rrc&theme=dark&hide_border=true&v=5" alt="GitHub Streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=krussell2-rrc&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%2C%20Y%5D&card_width=490&v=6"
+    alt="GitHub Streak"
+  />
 </p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=krussell2-rrc&show_icons=true&count_private=true&theme=github_dark&hide_border=true&v=2)
+<!-- Main stats -->
+![Stats](https://github-readme-stats.vercel.app/api?username=krussell2-rrc&show_icons=true&count_private=true&theme=github_dark&hide_border=true&v=3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krussell2-rrc&layout=compact&theme=github_dark&hide_border=true&v=2)
+<!-- Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krussell2-rrc&layout=compact&theme=github_dark&hide_border=true&v=3)
+
 
